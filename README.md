@@ -72,8 +72,8 @@ I’m a Computer Science undergraduate passionate about building real-world proj
 ## 📬 Connect With Me
 
 - 🔗 GitHub: https://github.com/Deep-glitch1  
-- 📧 Email: *(add your email here)*  
-- 💼 LinkedIn: *(add your LinkedIn here)*  
+- 📧 Email: *deepaksinghburathoki2019@gmail.com*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/deepak-singh-burathoki-46337a317/*  
 
 ---
 
