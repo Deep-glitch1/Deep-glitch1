@@ -27,6 +27,8 @@ I’m a Computer Science undergraduate passionate about building real-world proj
 - 💻 A **personal finance tracker** built with TypeScript.
 - Tracks expenses, budgets, and visualizes financial data interactively. :contentReference[oaicite:3]{index=3}
 
+---
+
 ### ☁️ **Cloud-Storage Simulator**
 🔗 https://github.com/Dhruvrawat04/Cloud-storageSimulator
 
